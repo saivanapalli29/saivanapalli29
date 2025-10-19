@@ -16,9 +16,7 @@ My Current Tech Stack
 
 Contact:-
 
-• [GitHub]: (https://github.com/saivanapalli29)
-
-• [View My Resume]: (https://drive.google.com/file/d/1muSfi6-ZiZ2wMEBX8BzZzO7IpoiENT8c/view?usp=drive_link)
+• View My Resume: https://drive.google.com/file/d/1muSfi6-ZiZ2wMEBX8BzZzO7IpoiENT8c/view?usp=drive_link
 
 • Email: saikumardevops19@gmail.com
 
