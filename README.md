@@ -14,10 +14,14 @@ My Current Tech Stack
 • Security and Monitoring: Prometheus, Grafana, SonarQube, Trivy, CloudWatch  
 • Scripting: Bash, Python  
 
-Contact  
+Contact:-
+
 • [GitHub]: (https://github.com/saivanapalli29)
+
 • [View My Resume]: (https://drive.google.com/file/d/1muSfi6-ZiZ2wMEBX8BzZzO7IpoiENT8c/view?usp=drive_link)
+
 • Email: saikumardevops19@gmail.com
+
 • Location: Bengaluru, India
  <!--
 **saivanapalli29/saivanapalli29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
