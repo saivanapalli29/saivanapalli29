@@ -1,6 +1,6 @@
 Hey  
 
-I am Sai Kumar, a DevOps and Cloud Engineer from Bengaluru, India.  
+I am Sai Vanapalli, a DevOps and Cloud Engineer from Bengaluru, India.  
 
 I enjoy automating infrastructure, deploying scalable applications, and learning new DevOps tools.  
 Currently working on CI/CD pipelines, Kubernetes orchestration, and cloud security.  
