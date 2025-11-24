@@ -16,7 +16,7 @@ My Current Tech Stack
 
 Contact:-
 
-• View My Resume: https://drive.google.com/file/d/1rU9wv-4uf9YM-fbg22GCMJTk1REegPRb/view?usp=drive_link
+• View My Resume: [https://drive.google.com/file/d/1SZK9UdWl5ibzMdSak-_zM-BY2YQFoYN1/view?usp=drive_link]
 
 • Email: saikumardevops19@gmail.com
 
